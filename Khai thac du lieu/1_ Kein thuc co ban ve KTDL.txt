@@ -1,0 +1,21 @@
+*Cong doan kham pha tri thuc tu csdl:
+1. Giai doan chon loc du lieu: Chon du lieu can thiet de khai thac.
+2. Lam sach du lieu.
+	- Chong trung lap : xoa bo thong tin trung lap giua cac ban ghi.
+	- Gioi han vung gia tri: Dung gia tri null cho cho nhung gia tri nam ngoai vung gia tri cho phep, nghia la cac thong tin khong hop le.	
+	- Giai doan lam giau du lieu: Bo sung nhung them nhieu nhieu loai thing tin vao co so du lieu goc. 
+	* Van de:
+		- lam sao ket hop thong tin du lieu goc voi du lieu can bo sung ?
+		- Khoi phuc cac quan he trong CSDL sau khi da lam giau thong tin.
+
+3. Giai doan ma hoa: Chuyen doi du lieu ve nhung dang thuan tien de tien hanh cac thuat toan kham pha du lieu.
+4. Khai thac du lieu.
+5. Trinh dien du lieu.
+
+* Cac ki thuat khai thac du lieu:
+- Tap pho bien va luat ket hop:kham pha tap gia tri thuoc tinh xuat hien pho bien trong cac doi tuong du lieu ( X-> Y )
+VD: Co 67 % khach hang mua bia 333 thi mua banh tong Cau Tre.
+- Mau tuan tu: kham pha cac mau pho bien phan anh moi quan he giua cac bien co trong CSDL theo thoi gian.
+VD: co 80 % khach hang mua ao thua Viet Tien thi 3 ngay sau mua quan Viet Tien.
+- Phan lop du lieu: 
+- Khai thac cum: 
